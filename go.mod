@@ -1,4 +1,4 @@
-// module github.com/kostiantyn-liapkalo/comment-service
+module github.com/Kostiantyn-Liapkalo/comment-service
 
 go 1.16
 
